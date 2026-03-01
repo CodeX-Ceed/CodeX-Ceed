@@ -44,9 +44,6 @@ A developer and tech enthusiast based in India. I love diving deep into the tech
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/codex-ceed" alt="Aditya's GitHub Activity Graph" />
-  <br><br>
-  
   <img src="https://github-readme-stats.vercel.app/api?username=codex-ceed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-ceed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
