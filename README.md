@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aditya+Rathore+👋;I+build+things+for+the+web;Minecraft+Modding+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aditya+Rathore+👋;I+build+things+for+the+web;Minecraft+Modding+Enthusiast" alt="Aditya Rathore Typing Intro" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codex-ceed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-A developer and tech enthusiast based in India. I love diving deep into the tech stack and building practical applications. When I'm not coding, I'm probably tweaking Minecraft mods.
+A developer and tech enthusiast based in India. I love diving deep into front-end web development, building interactive web scenes, and tweaking Minecraft mods. Always learning, always building.
 
 <br>
 
@@ -23,7 +23,7 @@ A developer and tech enthusiast based in India. I love diving deep into the tech
 ### 🚀 What I'm Up To
 
 - 💻 **Currently shipping:** [CodeX Client](https://github.com/CodeX-Ceed/CodeX-Client)
-- 🧠 **Currently learning:** Java (specifically for Minecraft Modding)
+- 🧠 **Currently exploring:** Java (Minecraft Modding) and Three.js for 3D web rendering
 - 🤝 **Open to collaborate on:** [Latentx](https://github.com/CodeX-Ceed/latentx)
 - 🌐 **Portfolio & Experience:** Check out my work at [codexceed.vercel.app](https://codexceed.vercel.app/)
 - 📫 **Reach out:** [aditya.rathore10101@gmail.com](mailto:aditya.rathore10101@gmail.com)
@@ -35,7 +35,7 @@ A developer and tech enthusiast based in India. I love diving deep into the tech
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,blender,bootstrap,css,express,figma,git,html,java,js,mongodb,mysql,nextjs,nodejs,postgres,postman,python,react,sass,spring,tailwind,ts,unity&perline=12" />
+    <img src="https://skillicons.dev/icons?i=android,blender,bootstrap,css,express,figma,git,html,java,js,mongodb,mysql,nextjs,nodejs,postgres,postman,python,react,sass,spring,tailwind,ts,unity,threejs&perline=12" alt="Aditya's Tech Stack" />
   </a>
 </div>
 
@@ -44,11 +44,11 @@ A developer and tech enthusiast based in India. I love diving deep into the tech
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codex-ceed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codex-ceed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aditya's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-ceed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-ceed&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aditya's GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codex-ceed&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codex-ceed&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aditya's Top Languages" />
 </div>
 
 ---
