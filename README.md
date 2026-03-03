@@ -44,11 +44,11 @@ A developer and tech enthusiast based in India. I love diving deep into front-en
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codex-ceed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codex-ceed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-ceed&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aditya's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-ceed&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codex-ceed&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Aditya's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codex-ceed&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ---
@@ -57,10 +57,10 @@ A developer and tech enthusiast based in India. I love diving deep into front-en
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/codexceed">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://ko-fi.com/codexceed">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Ko-fi" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40"/>
   </a>
 </div>
